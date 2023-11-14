@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+header{
+    width: 100%;
+    background-color: #F9E0AE;
+}
+
+.container {
+    width: 85%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.container ul{
+    display: flex;
+    gap: 10px;
+    margin-right: 5px;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+
+#btn{
+    background-color: brown;
+    color: floralwhite;
+
+    
+}
+
+ #start{
+    background-color: red;
+    color: #F9E0AE;
+ }
+.content{
+    display: flex;
+}
+
+
+.content1{
+    display: flex;
+}
+
+.fromsection{
+    display: flex;
+}
+
+
+#btn2{
+    background-color: orangered;
+    color: white;
+}
